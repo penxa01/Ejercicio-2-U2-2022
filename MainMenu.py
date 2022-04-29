@@ -1,6 +1,4 @@
 import os
-
-from numpy import true_divide
 from ManejadorViajeros import Manejador
 from ViajeroFrecuente import ViajeroFrecuente
 
